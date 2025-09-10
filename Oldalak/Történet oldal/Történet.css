@@ -1,0 +1,61 @@
+.navbar{
+    width: 0 auto;
+    height: 80px;
+    background-color: white;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navtext{
+    flex: 1;
+    text-align: left;
+}
+
+.logo{
+    flex: 1;
+    align-content: center;
+}
+
+body{
+    background-color: white;
+}
+
+#nev{
+    text-align: center;
+    font-size: 350%;
+}
+
+.tart{
+    padding: 25px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 70px;
+}
+
+.container img{
+    width: 300px;
+}
+
+#kepegy{
+    margin: 0 auto;
+}
+
+#kepegy img{
+    width: 1200px; 
+}
+
+#kepketto img{
+    width: 1200;
+    align-items: center;
+}
+
+
+
+
