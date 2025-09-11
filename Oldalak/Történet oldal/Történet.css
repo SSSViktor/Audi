@@ -48,12 +48,11 @@ body{
 }
 
 #kepegy img{
-    width: 1200px; 
+    width: 85%; 
 }
 
 #kepketto img{
-    width: 1200;
-    align-items: center;
+    width: 85%;
 }
 
 
