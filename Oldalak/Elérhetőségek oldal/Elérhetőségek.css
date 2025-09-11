@@ -1,0 +1,16 @@
+header{
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 200%;
+}
+
+#Logo{
+    position: absolute;
+    top: 3.5%;
+    left: 50%;
+}
