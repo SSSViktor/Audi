@@ -49,3 +49,17 @@ header{
     font-size: 150%;
     color: white;
 }
+#cim{
+    position: absolute;
+    top: 15%;
+    right: 10%;
+    text-align: right;
+}
+h1{
+    font-size: 600%;
+    letter-spacing: 12px;
+}
+h1, h3{
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
