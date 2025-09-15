@@ -16,3 +16,16 @@ header{
     width: 70%;
     margin: auto;
 }
+footer{
+    height: 100px;
+    background-color: black;
+    margin-top: 2%;
+    width: 100%;
+}
+
+footer>a{
+    color: white;
+}
+footer>a:hover{
+    color: gray;
+}
